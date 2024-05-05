@@ -3,7 +3,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host='localhost',
     user='swapadmin',
-    password='0000',
+    password='DAAdckljda!?zlkj97987',
     database='scrapswap'
 )
 
