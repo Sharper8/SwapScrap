@@ -1,14 +1,17 @@
-Noms ; 
+Sh€ll : 
+scrapy shell "https://example.com/sneakers"
+
+response.css('h3.DropCard__CardBrandName-sc-1f2e4y6-5.fwtNMB').getall()
+
+Noms ;
 
 <h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">A$ap Rocky x Puma Inhale OG</h3>
 <h4 class="DropCard__CardModelName-sc-1f2e4y6-4 ekDuET">SUMMER MELON</h4>
 
-response.css('h3.DropCard__CardBrandName-sc-1f2e4y6-5.fwtNMB').getall()
-
-
-
-h3.DropCard__CardBrandName-sc-1f2e4y6-5.fwtNMB
 <h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Alphafly 3</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Adidas Samba Millennium</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Adidas Samba Millennium</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Lunar Roam</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Lunar Roam</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Lunar Roam</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Lunar Roam</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Air Jordan 5 SE</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Mac Attack PRM</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Feng Chen Wang x 2-in-1 Converse Chuck 70</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Feng Chen Wang x 2-in-1 Converse Chuck 70</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">New Balance 1500</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">New Balance 1500 Made In England</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nocta x Nike Hot Step 2</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Air Jordan 1 Low OG</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Asics US5-S Gel-Quantum Kinetic</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Asics US5-S Gel-Quantum Kinetic</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Dingyun Zhang x adidas Samba</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Air Footscape Woven</h3>', '<h3 class="DropCard__CardBrandName-sc-1f2e4y6-5 fwtNMB">Nike Air Footscape Woven</h3>
+
+
+
 
 DropCard__ContentContainer-sc-1f2e4y6-1 hlAFYE
 
